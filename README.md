@@ -427,6 +427,17 @@ nav li a:hover{
 
 ## OUTPUT
 
+### ABOUT
+<img width="1905" height="633" alt="ABOUT" src="https://github.com/user-attachments/assets/d79cfd51-fde9-4aac-a9a7-5a4427c3c36a" />
+
+### SKILLS
+<img width="1919" height="752" alt="SKILLS" src="https://github.com/user-attachments/assets/69a79275-01f6-4ef0-ab60-805a3f99e47f" />
+
+### PROJECTS
+<img width="1919" height="434" alt="PROJECTS" src="https://github.com/user-attachments/assets/6dced275-229e-4a00-bedb-9b339f439157" />
+
+### CONTACTS
+<img width="1915" height="448" alt="CONTACT" src="https://github.com/user-attachments/assets/3cbc6cf6-5871-4095-87d7-3ddfb529f180" />
 
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
